@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../Lab_08_GetMethodical/Lab_08_GetMethodical.iml" filepath="$PROJECT_DIR$/../Lab_08_GetMethodical/Lab_08_GetMethodical.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lab_10_TicTacToe..iml" filepath="$PROJECT_DIR$/Lab_10_TicTacToe..iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_10_TicTacToe.iml" filepath="$PROJECT_DIR$/Lab_10_TicTacToe.iml" />
     </modules>
   </component>
 </project>
